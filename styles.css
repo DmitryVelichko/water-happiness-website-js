@@ -30,7 +30,14 @@ header {
 }
 
 header .logo {
-
+    position: relative;
+    font-size: 2em;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 2px 2px 0 rgba(0,0,0,0.1); 
+   
 }
 
 section video {
