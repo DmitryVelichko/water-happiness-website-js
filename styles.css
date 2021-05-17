@@ -54,6 +54,10 @@ header .toggle {
     align-items: center;
 }
 
+header .toggle.active {
+    background: url(close.png);
+}
+
 header .toggle:before {
     content: 'Menu';
     position: absolute;
