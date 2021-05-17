@@ -54,6 +54,21 @@ header .toggle {
     align-items: center;
 }
 
+header .toggle:before {
+    content: 'Menu';
+    position: absolute;
+    right: 45px;
+    text-transform: uppercase;
+    color: #111;
+    letter-spacing: 2px;
+    font-size: 14px;
+    padding: 2px 5px;
+    background: #fff;
+
+}
+
+
+
 section video {
     position: absolute;
     top: 0;
