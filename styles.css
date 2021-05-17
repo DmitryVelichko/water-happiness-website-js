@@ -37,7 +37,13 @@ header .logo {
     font-weight: 700;
     text-decoration: none;
     text-shadow: 2px 2px 0 rgba(0,0,0,0.1); 
-   
+    transition: 0.5s;
+}
+
+header .toggle {
+    position: relative;
+    width: 40px;
+    height: 40px;
 }
 
 section video {
