@@ -109,4 +109,5 @@ section.active .glass {
 
 section .content {
     position: realtive;
+    z-index: 10;
 }
