@@ -120,3 +120,7 @@ section .content {
     transition: 0.5s;
     transition-delay: 1s;
 }
+
+section .content h2 {
+    position: relative;
+}
