@@ -8,7 +8,7 @@
 }
 
 section {
-    position: realtive;
+    position: relative;
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -108,7 +108,7 @@ section.active .glass {
 }
 
 section .content {
-    position: realtive;
+    position: relative;
     z-index: 10;
     text-align: center;
 }
@@ -123,4 +123,5 @@ section .content {
 
 section .content h2 {
     position: relative;
+    color: #fff;
 }
