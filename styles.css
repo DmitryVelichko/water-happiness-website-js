@@ -115,4 +115,5 @@ section .content {
 
 section .content {
     position: relative;
+    z-index: 10;
 }
