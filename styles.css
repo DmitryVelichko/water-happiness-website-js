@@ -126,4 +126,5 @@ section .content h2 {
     color: #fff;
     font-size: 10vw;
     line-height: 0.55em;
+    text-shadow: 0 5px 5px rgba(0,0,0,0.2);
 }
