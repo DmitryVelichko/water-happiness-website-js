@@ -118,4 +118,5 @@ section .content {
     z-index: 10;
     text-align: center;
     transition: 0.5s;
+    transition-delay: 1s;
 }
