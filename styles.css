@@ -124,4 +124,5 @@ section .content {
 section .content h2 {
     position: relative;
     color: #fff;
+    font-size: 10vw;
 }
