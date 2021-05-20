@@ -135,5 +135,6 @@ section .content h2 span {
     letter-spacing: 5px;
     background: #fff;
     color: #111;
+    padding: 0 10px;
 }
 
