@@ -128,3 +128,8 @@ section .content h2 {
     line-height: 0.55em;
     text-shadow: 0 5px 5px rgba(0,0,0,0.2);
 }
+
+section .content h2 span {
+    font-size: 0.2em;
+}
+
