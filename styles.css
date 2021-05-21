@@ -150,5 +150,13 @@ section .content h2 span {
     text-transform: uppercase;
 }
 
+section .sci {
+    position: absolute;
+    bottom: 40px;
+    right: 100px;
+    display: flex;
+    z-index: 100;
+}
+
 
 
