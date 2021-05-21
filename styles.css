@@ -122,6 +122,11 @@ section .content {
     transition-delay: 1s;
 }
 
+section.active .content {
+    opacity: 0;
+    visibility: hidden;
+}
+
 section .content h2 {
     position: relative;
     color: #fff;
@@ -142,4 +147,6 @@ section .content h2 span {
     box-shadow: 0 5px 5px rgba(0,0,0,0.2);
     text-transform: uppercase;
 }
+
+
 
