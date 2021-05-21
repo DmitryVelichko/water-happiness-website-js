@@ -164,7 +164,10 @@ section .sci li {
     padding: 0 6px;
     background: #fff;
     transition: 0.5s;
-    
+}
+
+section .sci li a {
+    color: #111;
 }
 
 
