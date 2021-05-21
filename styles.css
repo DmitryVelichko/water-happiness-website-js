@@ -123,8 +123,9 @@ section .content {
 }
 
 section.active .content {
-    opacity: 0;
-    visibility: hidden;
+   opacity: 0;
+   visibility: hidden;
+   transform: translateX(-200px);
 }
 
 section .content h2 {
