@@ -126,6 +126,7 @@ section.active .content {
    opacity: 0;
    visibility: hidden;
    transform: translateX(-200px);
+   transition-delay: 0s;
 }
 
 section .content h2 {
