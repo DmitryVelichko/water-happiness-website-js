@@ -168,6 +168,10 @@ section .sci li {
 
 section .sci li a {
     color: #111;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 2px;
+    
 }
 
 
