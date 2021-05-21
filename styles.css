@@ -158,5 +158,13 @@ section .sci {
     z-index: 100;
 }
 
+section .sci li {
+    list-style: none;
+    margin: 5px;
+    padding: 0 6px;
+    background: #fff;
+    transition: 0.5s;
+    
+}
 
 
